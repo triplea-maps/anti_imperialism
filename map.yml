@@ -1,0 +1,5 @@
+map_name: anti_imperialism
+games:
+- game_name: Anti Imperialism
+  file_name: anti_imperialism.xml
+version: 0
